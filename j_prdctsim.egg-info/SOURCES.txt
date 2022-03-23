@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+j_prdctsim/__init__.py
+j_prdctsim/bom.py
+j_prdctsim/calc.py
+j_prdctsim.egg-info/PKG-INFO
+j_prdctsim.egg-info/SOURCES.txt
+j_prdctsim.egg-info/dependency_links.txt
+j_prdctsim.egg-info/top_level.txt
+tests/__init__.py
+tests/test_bom.py
+tests/test_calc.py
